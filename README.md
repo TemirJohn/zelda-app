@@ -85,7 +85,7 @@ zelda-app/
      ```
    - Create a `frontend/.env` file:
      ```
-     VITE_API_URL=http://localhost:8080
+     REACT_APP_API_URL=http://localhost:8080
      ```
    - Run the frontend:
      ```bash
